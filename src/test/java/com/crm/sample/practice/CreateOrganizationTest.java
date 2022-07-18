@@ -6,7 +6,7 @@ public class CreateOrganizationTest {
 
 	@Test(groups = "smoke")
 	public void createOrganization() {
-		System.out.println("Organization created");
+		System.out.println("Organization creatnVDZ<VNSDVed");
 	}
 	
 	@Test(groups = "regression")
